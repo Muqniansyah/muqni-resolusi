@@ -1,4 +1,6 @@
 RENCANA BELAJAR MUQNI
 
 - Memperdalam front-end
+  1. belajar rest api
+  2. perdalam javascript
 - Mulai belajar back-end
