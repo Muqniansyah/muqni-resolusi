@@ -4,6 +4,7 @@ RENCANA BELAJAR MUQNI
   1. belajar rest api
   2. perdalam javascript
   3. framework javascript
+  4. react
 - Mulai belajar back-end
   1. belajar php
   2. belajar mvc untuk php
