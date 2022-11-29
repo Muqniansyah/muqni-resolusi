@@ -10,3 +10,6 @@ RENCANA BELAJAR MUQNI
   1. belajar php
   2. belajar mvc untuk php
   3. belajar laravel
+  4. belajar mysql
+ -python
+
