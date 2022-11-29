@@ -3,10 +3,13 @@ RENCANA BELAJAR MUQNI
 - Memperdalam front-end
   1. belajar rest api
   2. perdalam javascript
-  3. framework javascript
-  4. react
+  3. belajar framework 
+    -angular
+    -react
 - Mulai belajar back-end
   1. belajar php
   2. belajar mvc untuk php
-  3. belajar mysql
+  3. belajar laravel
+  4. belajar mysql
  -python
+
